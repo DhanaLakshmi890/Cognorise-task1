@@ -4,61 +4,57 @@ ID:CRITKLA872,
 Domain: Web development,
 Duration: 20/06/2024-20/07/2024,
 
-HTML Structure
-Header Section
 
-Displays a profile photo, my name, and a brief description.
-Uses a div container for centered text and an img tag for the profile photo.
-Introduction Section
 
-Provides a brief introduction about myself.
-Includes a heading and a paragraph within a div container.
-Background Section
+Overview of Projects: Student Portfolio, BMI Calculator, and Calculator
+Student Portfolio
+Description:
+The Student Portfolio project is a personal website that showcases a student's background, projects, skills, testimonials, blog/articles, and achievements. The portfolio aims to present the student's qualifications, experiences, and accomplishments in an organized and visually appealing manner.
 
-Lists my educational background.
-Uses an unordered list (ul) to display my education details.
-Projects Section
+Key Features:
 
-Describes various projects  have worked on.
-Each project includes a title, description, technologies used, tools, project URL, and outcomes.
-Skills Section
+Introduction: A brief overview of the student's background, interests, and career goals.
+Background: Detailed educational background including graduation, intermediate, and SSC details.
+Projects: Description of various projects completed by the student with details like technology used, project URL, and outcomes.
+Skills: List of technical skills including programming languages, web development, and database knowledge.
+Testimonials: Feedback from teachers highlighting the student's strengths and abilities.
+Blog/Articles: Links to blog posts or articles written by the student.
+Achievements: Recognition of awards and accomplishments in various fields.
+Contact Information: Email and LinkedIn profile for networking and professional connections.
+Technologies Used:
 
-Lists my skills in programming languages, web development, and databases.
-Uses an unordered list (ul) to display the skills.
-Testimonials Section
+HTML for structuring the content
+CSS for styling the web pages
 
-Includes testimonials from teachers.
-Uses blockquotes for each testimonial.
-Blog/Articles Section
 
-Lists blog posts or articles  have written.
-Uses an unordered list (ul) with links to the articles.
-Achievements Section
+BMI Calculator Project
+Description:
+The BMI (Body Mass Index) Calculator project is a web application that allows users to calculate their BMI by inputting their weight and height. It provides a simple and effective way to monitor body fitness.
 
-Lists my achievements.
-Uses an unordered list (ul) to display the achievements.
-Contact Section
+Key Features:
 
-Provides my email and LinkedIn profile link.
-Uses a div container for centered text and links.
-CSS Styling
-Global Styles: Sets the font family, background color, and text color.
-Container Class: Defines the maximum width, auto margins, and padding.
-Header: Styles the header with a black background, white text, padding, and rounded corners.
-Profile Photo: Styles the profile photo with a circular shape and specific dimensions.
-Headings and Paragraphs: Sets margins and font sizes for headings and paragraphs.
-Unordered Lists: Removes default list styles and sets custom margins.
-Links: Defines link styles and hover effects.
-Blockquotes: Adds a left border and padding for testimonials.
-Footer: Styles the footer with a black background, white text, centered alignment, padding, and rounded corners.
-Overview of Each Section
-Header: Introduces my with a profile photo and brief description.
-Introduction: Provides a personal introduction about my interests and ambitions.
-Background: Details my educational history with strong academic performance.
-Projects: Showcases my project work with descriptions, technologies used, and outcomes.
-Skills: Highlights my technical skills in various programming languages and tools.
-Testimonials: Includes positive feedback from teachers, emphasizing my strengths.
-Blog/Articles: I didnot written any blogs and article so i gave a my profile link.
-Achievements: Lists notable achievements, showcasing my accomplishments.
-Contact: Provides contact information for networking and professional connections.
-This portfolio effectively presents my academic background, skills, projects, and personal achievements, making it a comprehensive showcase of my profile.
+Input Fields: Users can enter their weight in kilograms and height in centimeters.
+Calculation: The application calculates the BMI based on the entered values.
+Result Display: The calculated BMI is displayed along with an interpretation (e.g., underweight, normal weight, overweight).
+Technologies Used:
+
+HTML for the structure of the input form and display.
+CSS for styling the form and result display.
+JavaScript for handling the BMI calculation logic and updating the user interface dynamically.
+
+
+Calculator Project
+Description:
+The Calculator project is a basic web application that performs simple arithmetic operations such as addition, subtraction, multiplication, and division. It is designed to provide a functional and user-friendly interface for basic mathematical calculations.
+
+Key Features:
+
+Display: Shows the current input and results of calculations.
+Buttons: Includes buttons for digits (0-9), arithmetic operations (+, -, *, /), and functionalities like clear (C), delete last entry (DEL), and calculate result (=).
+Responsive Design: Ensures the calculator works well on various devices and screen sizes.
+Technologies Used:
+
+HTML for creating the structure of the calculator interface.
+CSS for styling the calculator and ensuring a clean layout.
+JavaScript for implementing the logic for arithmetic operations and handling user interactions.
+
